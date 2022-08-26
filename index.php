@@ -11,6 +11,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHP.php to edit th
     <body>
         <?php
             echo "Ola mundo";
+            echo "<hr>";
         ?>
     </body>
 </html>
